@@ -1,0 +1,4 @@
+The repository is empty, so it’s time to connect it to your existing work. 
+Copy the Git commands on the GitHub page, under the title “…or push an existing repository from the command line”, 
+and paste them into your Command Line Interface. Running these commands will add a remote repository, 
+and then push your local repository to the remote repository.
